@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+pymongo
+aiohttp
+fastapi
+uvicorn
+jinja2
+python-dotenv
+redis
